@@ -16,7 +16,6 @@
 		CE2824FE1DDCFE7E000744A2 /* iOS_Programming_16_Nov___App_ActivityTests.m in Sources */ = {isa = PBXBuildFile; fileRef = CE2824FD1DDCFE7E000744A2 /* iOS_Programming_16_Nov___App_ActivityTests.m */; };
 		CE2825091DDCFE7E000744A2 /* iOS_Programming_16_Nov___App_ActivityUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = CE2825081DDCFE7E000744A2 /* iOS_Programming_16_Nov___App_ActivityUITests.m */; };
 		CE2825181DDCFE9D000744A2 /* BoxView.m in Sources */ = {isa = PBXBuildFile; fileRef = CE2825171DDCFE9D000744A2 /* BoxView.m */; };
-		CE28251A1DDD153F000744A2 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = CE2825191DDD153F000744A2 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,7 +54,6 @@
 		CE28250A1DDCFE7E000744A2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CE2825161DDCFE9D000744A2 /* BoxView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BoxView.h; sourceTree = "<group>"; };
 		CE2825171DDCFE9D000744A2 /* BoxView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BoxView.m; sourceTree = "<group>"; };
-		CE2825191DDD153F000744A2 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,7 +110,6 @@
 				CE2824EA1DDCFE7E000744A2 /* ViewController.m */,
 				CE2825161DDCFE9D000744A2 /* BoxView.h */,
 				CE2825171DDCFE9D000744A2 /* BoxView.m */,
-				CE2825191DDD153F000744A2 /* README.md */,
 				CE2824EC1DDCFE7E000744A2 /* Main.storyboard */,
 				CE2824EF1DDCFE7E000744A2 /* Assets.xcassets */,
 				CE2824F11DDCFE7E000744A2 /* LaunchScreen.storyboard */,
@@ -286,7 +283,6 @@
 			files = (
 				CE2825181DDCFE9D000744A2 /* BoxView.m in Sources */,
 				CE2824EB1DDCFE7E000744A2 /* ViewController.m in Sources */,
-				CE28251A1DDD153F000744A2 /* README.md in Sources */,
 				CE2824E81DDCFE7E000744A2 /* AppDelegate.m in Sources */,
 				CE2824E51DDCFE7E000744A2 /* main.m in Sources */,
 			);
