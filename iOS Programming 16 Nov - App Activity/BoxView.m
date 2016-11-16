@@ -18,4 +18,13 @@
 }
 */
 
+- (id<CAAction>) actionForLayer:(CALayer *)layer forKey:(NSString *)event {
+    
+    id<CAAction> animation = [CABasicAnimation animation];
+    
+    ((CAAnimation *) animation).duration = 0.75f;
+    
+    return animation;
+}
+
 @end
